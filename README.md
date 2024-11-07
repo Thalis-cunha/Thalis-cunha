@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thalis-cunha
 - 👀 I’m interested in ...TI
-- 🌱 I’m currently learning ...front end
+- 🌱 I’m currently learning ...Desenvolvimento de software
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...51993938598
 
